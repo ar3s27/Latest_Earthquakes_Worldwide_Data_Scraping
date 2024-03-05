@@ -1,0 +1,3 @@
+Dünyada 4.0'dan büyük depremleri harita üzerinden gösteren bir proje olacak bu 
+Verileri alacağımız site 
+https://ds.iris.edu/seismon/eventlist/index.phtml#
