@@ -1,3 +1,7 @@
 Dünyada 4.0'dan büyük depremleri harita üzerinden gösteren bir proje olacak bu 
 Verileri alacağımız site 
 https://ds.iris.edu/seismon/eventlist/index.phtml#
+
+dünyada bulunan bütün deprem verilerini bir araya getirip liste olarak iletmem gerekiyor bunun için aynı anda farklı 
+deprem paylaşım merkezlerinin verilerini bir araya getirecem ve odnan sonra bu verileri belli bir saat sıralamasına sokup 
+kullanıcıya sunacam
